@@ -1,4 +1,4 @@
-# Language-Identifier-with-NLP
+# Language-Identifier
 Language Identifier using NLP
 
 Main Source: WiLI-2018
